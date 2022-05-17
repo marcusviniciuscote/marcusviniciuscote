@@ -13,7 +13,7 @@
 -->
 
 <div>
-  <img height="720em" src="nord-lake-wallpaper.png"/>
+  <img width="1920em" height="320em" src="wallpaper.png"/>
 </div>
 
 <!--
