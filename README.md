@@ -12,13 +12,10 @@
 - ⚡ Fun fact: ...
 -->
 
-
+### <img width="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> My Github Stats
 
 <div align="center">
   <a href="https://github.com/marcusviniciuscote">
-  
-  ### <img width="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> My Github Stats
-    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=marcusviniciuscote&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusviniciuscote&layout=compact&langs_count=3&theme=noctis_minimus"/>
   </a>
@@ -28,10 +25,9 @@
   <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=marcusviniciuscote&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
+### Technology Stack
+
 <div style="display: inline_block" align="center">
-  
-  ### Technology Stack
-  
   <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
   <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
