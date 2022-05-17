@@ -13,7 +13,7 @@
 -->
 
 <div>
-  <img height="180em" src=""/>
+  <img width="1920em" src="nord-wallpaper.jpeg"/>
 </div>
 
 <!--
