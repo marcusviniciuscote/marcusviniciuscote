@@ -11,6 +11,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <img height="180em" src=""/>
+</div>
+
 <!--
 <div align="center">
   <a href="https://github.com/rafaballerini">
