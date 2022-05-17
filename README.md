@@ -13,8 +13,36 @@
 -->
 
 <div align="center">
+  
+  ### Technology Stack
+  
+  <div style="display: inline_block">
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+    <!--<img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />-->
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <!--<img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />-->
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+    <img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  </div>
+</div>
+
+<div align="center">
     
-  ### <img width="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> My github stats 
+  ### <img width="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> My Github Stats 
     
   <a href="https://github.com/marcusviniciuscote">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=marcusviniciuscote&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
