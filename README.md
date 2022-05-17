@@ -14,10 +14,10 @@
 
 <div align="center">
   <a href="https://github.com/marcusviniciuscote">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=marcusviniciuscote&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&&show_owner=true&theme=noctis_minimus"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusviniciuscote&layout=compact&langs_count=3&theme=noctis_minimus"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=marcusviniciuscote&layout=compact&theme=noctis_minimus"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=marcusviniciuscote&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&&show_owner=true&theme=noctis_minimus"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusviniciuscote&layout=compact&langs_count=3&theme=noctis_minimus"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=marcusviniciuscote&layout=compact&theme=noctis_minimus"/>
   </a>
 </div>
 
