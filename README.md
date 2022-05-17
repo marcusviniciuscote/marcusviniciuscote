@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img height="100em" src="http://github-readme-streak-stats.herokuapp.com?user=marcusviniciuscote&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=marcusviniciuscote&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
 <!--
