@@ -38,7 +38,4 @@ anuraghazra
 
 #### 📈 Github Statistics
 
-[![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusviniciuscote)](https://github.com/anuraghazra/github-readme-stats)
-![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusviniciuscote&count_private=true)
-![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusviniciuscote&show_icons=true)
-![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusviniciuscote&show_icons=true&theme=radical)
+![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusviniciuscote&count_private=true&show_icons=true&theme=radical)
