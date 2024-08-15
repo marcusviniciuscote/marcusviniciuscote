@@ -12,19 +12,27 @@
 
 #### 📝 This is my skills:
 
+![Bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=bootstrap&logoColor=black)
+<!-- ![Django](https://img.shields.io/badge/django-blakc.svg?style=for-the-badge&logo=django&logoColor=black) -->
+![Flask](https://img.shields.io/badge/flask-black.svg?style=for-the-badge&logo=flask&logoColor=black)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+
+
+
+
+
 ![HTML5](https://img.shields.io/badge/html5-FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=black)
+
 ![CSS3](https://img.shields.io/badge/css3-FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-FFFFFF.svg?style=for-the-badge&logo=bootstrap&logoColor=black)
 
 ![Python](https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
-![Flask](https://img.shields.io/badge/flask-FFFFFF.svg?style=for-the-badge&logo=flask&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-FFFFFF.svg?style=for-the-badge&logo=vercel&logoColor=black)
 
 ![Git](https://img.shields.io/badge/git-FFFFFF.svg?style=for-the-badge&logo=git&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-FFFFFF.svg?style=for-the-badge&logo=docker&logoColor=black)
-![Insomnia](https://img.shields.io/badge/Insomnia-FFFFFF?style=for-the-badge&logo=insomnia&logoColor=black)
 
-<!-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
 
 <!-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) -->
 <!-- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) -->
