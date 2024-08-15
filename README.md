@@ -30,6 +30,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-white.svg?style=for-the-badge&logo=vercel&logoColor=black)
 ![Vim](https://img.shields.io/badge/VIM-white.svg?style=for-the-badge&logo=vim&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
 
 <!-- ![Ansible](https://img.shields.io/badge/ansible-white.svg?style=for-the-badge&logo=ansible&logoColor=black)-->
