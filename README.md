@@ -7,7 +7,8 @@
 
 #### How can you contact me:
 
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white] (https://www.linkedin.com/in/marcusviniciuscote/) [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](marcusvcteixeira@gmail.com?subject=[Github]Olá Marcus Vinićius)
+<a href="https://www.linkedin.com/in/marcusviniciuscote/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:marcusvcteixeira@gmail.com?subject=[Github]%20Olá%20Marcus%20Vinićius"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <!--
 **marcusviniciuscote/marcusviniciuscote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
