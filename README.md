@@ -7,22 +7,22 @@
 
 #### 📫 How can you contact me:
 
-<a href="https://www.linkedin.com/in/marcusviniciuscote/"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:marcusvcteixeira@gmail.com?subject=[Github]%20Olá%20Marcus%20Vinićius"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/marcusviniciuscote/"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+<a href="mailto:marcusvcteixeira@gmail.com?subject=[Github]%20Olá%20Marcus%20Vinićius"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 
 #### 📝 This is my skills:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-%FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%FFFFFF.svg?style=for-the-badge&logo=bootstrap&logoColor=black)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
+![Flask](https://img.shields.io/badge/flask-%FFFFFF.svg?style=for-the-badge&logo=flask&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-%FFFFFF.svg?style=for-the-badge&logo=vercel&logoColor=black)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Git](https://img.shields.io/badge/git-%FFFFFF.svg?style=for-the-badge&logo=git&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%FFFFFF.svg?style=for-the-badge&logo=docker&logoColor=black)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=black)
 
 <!-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
 
