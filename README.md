@@ -41,7 +41,7 @@
 
 #### 💻 Workspace
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&logo=Manjaro&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=black)
 
 #### 📈 Github Statistics
 
